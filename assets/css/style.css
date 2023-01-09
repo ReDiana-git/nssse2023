@@ -31,12 +31,12 @@ label {
 	color: #777;
 }
 .herotxt{
-	background:#FF4242;
+	background: #beecec;
 }
  
 .herotxt p {
 	font-size: 20px;
-	color:#fff;
+	color: #5d5050;
 }
 .herotxt span {
 color: #fff;
@@ -103,7 +103,7 @@ background: rgba(255, 255, 255, 0.15);
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-nav>li:hover { 
 color: #3a3a3a !important;
-background: rgba(190, 236, 236, 0.68);
+background: #beecec;
 }
 .navbar-fixed-top, .navbar-fixed-bottom { 
 z-index: 9999;
@@ -291,7 +291,7 @@ ul.list-spaces li {
 	width: 100%;
 }
 .top-space {
-	margin-top: 35px;
+	margin-top: 0px;
 }
 .top-margin {
 	margin-top: 20px;
